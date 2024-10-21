@@ -11,18 +11,18 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "@nuxtjs/axios": "^5.3.6",
-    "@nuxtjs/pwa": "^3.0.0-0",
-    "axios": "^0.19.2",
-    "nuxt": "^2.12.2",
-    "swiper": "^5.4.1",
-    "vue-awesome-swiper": "^4.1.1"
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/pwa": "^3.1.2",
+    "axios": "^1.7.7",
+    "nuxt": "^3.13.2",
+    "swiper": "^11.1.14",
+    "vue-awesome-swiper": "^5.0.1"
   },
   "devDependencies": {
-    "eslint-config-prettier": "^6.10.0",
-    "eslint-plugin-prettier": "^3.1.2",
-    "husky": "^4.2.5",
-    "prettier": "^1.19.1"
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "husky": "^9.1.6",
+    "prettier": "^3.3.3"
   },
   "husky": {
     "hooks": {
